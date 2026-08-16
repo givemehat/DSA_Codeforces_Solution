@@ -1,4 +1,4 @@
-# DSA_Codeforces_Solution
+# DSA_Leetcode_Solution
 
 <div align="center">
   <img src="https://img.shields.io/github/repo-size/givemehat/dsa-codeforces-solutions?style=for-the-badge&color=blue" alt="Repository Size" />
